@@ -1,0 +1,24 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "ascii-art": "^1.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tyler-reitz/bamazon.git"
+  },
+  "keywords": [],
+  "author": "Tyler Reitz <tdreitz@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tyler-reitz/bamazon/issues"
+  },
+  "homepage": "https://github.com/tyler-reitz/bamazon#readme"
+}
