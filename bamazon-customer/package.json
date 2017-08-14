@@ -4,7 +4,11 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "ascii-art": "^1.4.2"
+    "ascii-art": "^1.4.2",
+    "ascii-table": "0.0.9",
+    "colors": "^1.1.2",
+    "inquirer": "^3.2.1",
+    "mysql": "^2.13.0"
   },
   "devDependencies": {},
   "scripts": {
